@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Han Luu, a passionate developer focused on **building amazing user interfaces**!  
+I'm Han Luu, a passionate developer!  
 
 ## 🌟 What I'm working on  
 - 🎨 Creating **helpful and stunning UI apps** that provide real value  
