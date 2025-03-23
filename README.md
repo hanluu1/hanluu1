@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Han Luu, a passionate developer!  
+I'm Han Luu 
 
 ## 🌟 What I'm working on  
 - 🎨 Creating **helpful and stunning UI apps** that provide real value  
