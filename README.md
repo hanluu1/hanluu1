@@ -11,7 +11,7 @@ I'm Han Luu
 - 📚 Keep improving my **web development skills**  
 - 💡 Work on projects that make a real impact
 
-## 🚀 Future Projects & Dreams  
+## 🚀 Future Projects  
 I hope to create a **movie & drama tracking website** where users can:  
 🎬 **Store all the movies and drama shows they've watched** 📚  
 💬 **Allows people to share their thoughts & reviews** 📝  
